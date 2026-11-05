@@ -1,0 +1,6 @@
+library.service.Customer 3 1 0 1 10 0 0 3
+library.model.DigitalBook 2 0 0 1 3 0 1 2
+library.model.Book 5 1 1 1 10 0 2 5
+library.app.LibraryApp 2 1 0 4 8 1 0 2
+library.model.Lendable 4 1 0 0 4 6 4 4
+library.service.Library 5 1 0 1 15 0 1 5
